@@ -1,0 +1,5 @@
+com\ejemplo\nfs\ExportEntry.class
+com\ejemplo\nfs\Main.class
+com\ejemplo\nfs\NfsConfigurator.class
+com\ejemplo\nfs\NfsConfigurator$1.class
+com\ejemplo\nfs\NfsConfigurator$2.class
